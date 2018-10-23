@@ -1,4 +1,4 @@
-﻿setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://jawalhost.com/'>جوال هوست</a></div>").insertAfter($(".loginstat"));  },1000);
+
 $("div#tlogins button.btn.btn-primary").click(function(){
 var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
    $(`
@@ -61,3 +61,7 @@ $(`<style> .fitimg.fl.u-pic {border-radius: 50px;}.emoi {
     height: auto;
     max-height: 25px;
 }</style>`).insertBefore('body');
+
+</script>
+</body>
+</html>
