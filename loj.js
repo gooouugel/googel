@@ -61,7 +61,3 @@ $(`<style> .fitimg.fl.u-pic {border-radius: 50px;}.emoi {
     height: auto;
     max-height: 25px;
 }</style>`).insertBefore('body');
-
-</script>
-</body>
-</html>
